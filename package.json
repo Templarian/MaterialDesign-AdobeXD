@@ -1,0 +1,32 @@
+{
+  "name": "@mdi/adobexd",
+  "version": "2.2.43",
+  "description": "Distribution and Build for AdobeXD MDI",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Templarian/MaterialDesign-AdobeXD.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "icons",
+    "adobexd"
+  ],
+  "author": "Austin Andrews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Templarian/MaterialDesign/issues"
+  },
+  "homepage": "https://materialdesignicons.com",
+  "devDependencies": {
+    "@mdi/svg": "^2.2.43",
+    "archiver": "^2.1.1"
+  },
+  "dependencies": {
+    "@mdi/util": "^0.1.0"
+  }
+}
